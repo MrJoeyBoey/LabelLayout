@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="label">
+        <attr name="ind_w" format="dimension"/>
+        <attr name="ind_h" format="dimension"/>
+        <attr name="label_h" format="dimension"/>
+        <attr name="ind_spd" format="integer"/>
+        <attr name="label_color" format="color"/>
+        <attr name="tag_color" format="color"/>
+        <attr name="tag_size" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
